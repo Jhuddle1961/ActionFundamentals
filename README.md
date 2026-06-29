@@ -1,5 +1,5 @@
 # GitHub Actions Fundamentals
-
+[skip ci]
 # my test
 Repo for the `GitHub Actions Fundamentals` training.
 
